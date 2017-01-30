@@ -1,4 +1,4 @@
-package com.pearshadow.simplecolorpicker;
+package com.pearshadow.mua;
 
 import android.content.Context;
 import android.content.Intent;
